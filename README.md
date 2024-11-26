@@ -1,4 +1,4 @@
-!https://user-images.githubusercontent.com/121715823/235297659-e41a14e9-f31a-4155-9bd7-7e5347f4a4fb.png
+<img  src="https://user-images.githubusercontent.com/121715823/235297659-e41a14e9-f31a-4155-9bd7-7e5347f4a4fb.png" >
 <h1 align="center">Hi 👋, I'm Pramila Rana</h1>
 <h3 align="center">A passionate Full-Stack Developer.</h3>
 <img  src="https://user-images.githubusercontent.com/121715823/235297581-a18ca06f-7cce-44a4-9d96-6be11727748e.png" align="right" width="400">
@@ -13,18 +13,8 @@
 - 📫 How to reach me *developerprami@gmail.com*
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DevPrami&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DevPrami&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevPrami&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DevPrami&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DevPrami&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 
 
